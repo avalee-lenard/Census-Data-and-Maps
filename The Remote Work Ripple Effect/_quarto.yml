@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "The Remote Work Ripple Effect"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+
