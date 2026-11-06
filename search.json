@@ -4,7 +4,28 @@
     "href": "index.html",
     "title": "The Remote Work Ripple Effect",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Since 2020, the rise of remote and hybrid work has decoupled where many Americans live from where their employers are located. Using U.S. Census Bureau American Community Survey (ACS) data, this project explores three major ripple effects of working from home."
+  },
+  {
+    "objectID": "index.html#local-economies",
+    "href": "index.html#local-economies",
+    "title": "The Remote Work Ripple Effect",
+    "section": "1. Local Economies",
+    "text": "1. Local Economies\nAs daily commuting declined, spending shifted away from dense downtown business districts toward residential suburbs and smaller cities. Service businesses, local tax bases, and transit systems have had to adapt to fewer weekday office commuters and more daytime activity in residential neighborhoods.\n\nThe “Zoom & Bleed” Commuter Map\nHover over any suburban bedroom county in the New York Tri-State commuter belt below to trace its commuter connection to Midtown Manhattan and see the estimated annual commute miles and hours saved by remote workers ( totaling 4.8+ billion miles and 165+ million hours saved per year across the metro region)."
+  },
+  {
+    "objectID": "index.html#housing-markets",
+    "href": "index.html#housing-markets",
+    "title": "The Remote Work Ripple Effect",
+    "section": "2. Housing Markets",
+    "text": "2. Housing Markets\nWhen workers no longer needed to live within driving distance of an office, demand surged for larger homes with dedicated workspace—and for housing in more affordable metro areas and “zoom towns.” This geographic flexibility reshaped home prices, rents, and migration patterns across states and counties."
+  },
+  {
+    "objectID": "index.html#family-structures-and-household-life",
+    "href": "index.html#family-structures-and-household-life",
+    "title": "The Remote Work Ripple Effect",
+    "section": "3. Family Structures and Household Life",
+    "text": "3. Family Structures and Household Life\nFlexible schedules and the elimination of long commutes have changed how households allocate time for childcare, eldercare, and work. Remote work availability has influenced where young families choose to settle, dual-earner household participation, and multigenerational living arrangements."
   },
   {
     "objectID": "about.html",
