@@ -1,1 +1,9 @@
 /* css styles */
+#title-block-header {
+  display: none;
+}
+
+.leaflet-container img {
+  max-width: none !important;
+  max-height: none !important;
+}
